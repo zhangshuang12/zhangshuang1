@@ -372,6 +372,6 @@ h2{
     display: flex;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 30%;
+    top: 4.5rem;
     z-index: 10;
 }
