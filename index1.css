@@ -18,11 +18,12 @@ https://daneden.github.io/animate.css/ */
     z-index: 9;
 }
 .page1 img:nth-of-type(2){
+    width: 2rem;
     position: absolute;
     display: flex;
     left: 50%;
-    margin-left: -1.05rem;
-    bottom: 15%;
+    margin-left: -1rem;
+    top: 4.5rem;
     z-index: 9;
 }
 .page1 p{
@@ -31,9 +32,10 @@ https://daneden.github.io/animate.css/ */
     color:rgba(30,122,117,1);
     position: absolute;
     left: 50%;
-    margin-left: -.72rem;
-    top: 64%;
+    margin-left: -.625rem;
+    top: 4.3rem;
     z-index: 9;
+    font-size: .15rem;
 }
 .page1 img:nth-of-type(3){
     position: absolute;
@@ -58,6 +60,7 @@ https://daneden.github.io/animate.css/ */
     transform: translateX(-50%);
     bottom: 40px;
     z-index: 9;
+    font-size: .14rem;
 }
 /* 2345页的共性 */
 .page2,.page3,.page4,.page5{
@@ -104,7 +107,7 @@ h2{
     display: flex;
     left: 50%;
     margin-left: -1.4rem;
-    top: 20%;
+    top: 1.4rem;
     width: 75%;
     z-index: 9;
 }
@@ -193,14 +196,14 @@ h2{
     display: flex;
     left: 50%;
     transform: translateX(-50%);
-    top: 17%;
+    top: 1.1rem;
     width: 75%;
 }
 .page3 .p2{
     text-align: left;
     position: absolute;
     display: flex;
-    bottom: 25%;
+    top: 4rem;
     left: 50%;
     transform: translateX(-50%);
     width: 75%;
@@ -254,7 +257,7 @@ h2{
     display: flex;
     left: 50%;
     transform: translateX(-50%);
-    top: 25%;
+    top: 1.67rem;
     width: 75%;
 }
 .page4 .p3{
@@ -263,7 +266,7 @@ h2{
     display: flex;
     left: 50%;
     transform: translateX(-50%);
-    top: 43%;
+    top: 2.82rem;
     width: 75%;
 }
 .page4 .p4{
@@ -272,7 +275,7 @@ h2{
     display: flex;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 25%;
+    top: 4.13rem;
     width: 75%;
 }
 .page4 .hbox1{
@@ -281,7 +284,7 @@ h2{
     display: flex;
     left: 50%;
     transform: translateX(-50%);
-    top: 20%;
+    top: 1.3rem;
     width: 75%;
 }
 .page4 .hbox2{
@@ -290,7 +293,7 @@ h2{
     display: flex;
     left: 50%;
     transform: translateX(-50%);
-    top: 37%;
+    top: 2.45rem;
     width: 75%;
 }
 .page4 .hbox3{
@@ -299,7 +302,7 @@ h2{
     display: flex;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 38%;
+    top: 3.8rem;
     width: 75%;
 }
 /* 第五页 */
