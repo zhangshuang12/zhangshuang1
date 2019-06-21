@@ -133,7 +133,7 @@ h2{
     text-align: left;
     position: absolute;
     display: flex;
-    top: 49%;
+    top: 3.5rem;
     left: 50%;
     width: 75%;
     font-size: .15rem;
@@ -266,7 +266,7 @@ h2{
     display: flex;
     left: 50%;
     transform: translateX(-50%);
-    top: 2.82rem;
+    top: 2.8rem;
     width: 75%;
 }
 .page4 .p4{
@@ -335,7 +335,7 @@ h2{
     display: flex;
     left: 50%;
     margin-left: -1.3rem;
-    bottom: 40%;
+    top: 1.9rem;
     width: 70%;
     z-index: 9;
 }
